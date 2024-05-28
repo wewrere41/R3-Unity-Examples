@@ -1,4 +1,4 @@
-# R3-Unity-Tutorials
+# R3-Unity-Examples
 
 ### [Medium Blog](https://medium.com/@EnescanBektas/unityde-r3-unirx-%C3%B6rnekleri-58435b24356d)
 
